@@ -1,0 +1,12 @@
+{
+  "name": "demo-reentrancy",
+  "version": "1.0.0",
+  "description": "Demo for showing ReentrancyGuard vs VulnerableVault",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "@openzeppelin/contracts": "^4.9.5"
+  }
+}
